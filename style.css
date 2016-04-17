@@ -1,15 +1,8 @@
 /*div{
-    max-width: 960px;
-    min-width: 360px;
+    max-width: 100%;
+    /*min-width: 360px;*/
     margin:auto:
 }*/
-
-.container {
-    margin-left:auto;
-    margin-right:auto;
-    width:100%;
-    background-color:#cdc5b4;
-}
 
 .nav {
     display: inline-block;
@@ -34,7 +27,7 @@ body{
 }
 .header {
     color:#6b9080;
-    width:960px;
+    width:100%;
 }
     
     /*display: inline-block;
@@ -102,7 +95,7 @@ a:hover{
 
 body {
     background-color:#cdc5b4;
-    width: 960px;
+    width: 100%;
     text-align: center;
     height:50px;
     margin-top: 5px;
@@ -149,7 +142,7 @@ p {
 #column1, #column2{
     display: inline-block;
     margin: 10px 10px 10px 10px;
-    width:45%;
+    width:35%;
     vertical-align: top;
     text-align: center;
     border: none;   
@@ -164,6 +157,7 @@ img {
     
 iframe {
     border: solid 2px #6b9080;
+    text-align:left;
 }
 
 .caption{
@@ -174,7 +168,7 @@ iframe {
     background-color: #6b9080;
     position:relative;
     top:-19px;
-    left:65px;
+    left:70px;
     }
     
 /*#column2{
