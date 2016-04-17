@@ -115,6 +115,7 @@ h1{
     font-family: Vidaloka, sans-serif;
     font-weight:100;
     color:#6b9080;
+    text-align: center;
 }
 
 h2{
@@ -122,6 +123,7 @@ h2{
     font-family: Vidaloka, sans-serif;
     font-weight:100; 
     color:#35524a;
+    text-align: center;
 }
 
 #subject{
