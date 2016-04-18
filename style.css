@@ -1,6 +1,6 @@
 /*div{
     max-width: 100%;
-    /*min-width: 360px;*/
+    min-width: 360px;
     margin:auto:
 }*/
 
@@ -53,20 +53,11 @@ a:hover{
     color:#ffe066;
 }
 
-/*a:hover {
-    color: hotpink;
-}*/
-
 .nav {
     position:relative;
     left:04px;
 }
 
-/*#list li:hover {
-    background-color:#6b9080;
-    height: 50px;
-    }*/
-    
 #list li {
         display: inline-block;
         width: 100px;
@@ -157,18 +148,17 @@ img {
     
 iframe {
     border: solid 2px #6b9080;
-    text-align:left;
 }
 
 .caption{
     width:335px;
     text-align:left;
-    /*margin:1px auto 1px auto;*/
+    margin:1px auto 1px auto;
     font-size: 8px;
     background-color: #6b9080;
     position:relative;
     top:-19px;
-    left:69px;
+    left:0px;
     }
     
 /*#column2{
