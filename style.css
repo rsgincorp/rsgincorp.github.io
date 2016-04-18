@@ -149,7 +149,7 @@ p {
 }
 
 img {
-    max-width: 70%;
+    max-width:70%;
     text-align:center;
     margin:1px auto 1px auto;
     border: solid 2px #6b9080;
@@ -161,14 +161,14 @@ iframe {
 }
 
 .caption{
-    max-width:70%;
-    text-align:justify;
+    width:335px;
+    text-align:left;
     /*margin:1px auto 1px auto;*/
     font-size: 8px;
     background-color: #6b9080;
     position:relative;
     top:-19px;
-    left:70px;
+    left:69px;
     }
     
 /*#column2{
